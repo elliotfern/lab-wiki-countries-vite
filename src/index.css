@@ -1,0 +1,22 @@
+.header {
+  background-color: rgb(12, 71, 159);
+  padding: 25px;
+}
+
+.header h1 {
+  text-align: left;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.container-general {
+  margin-top: 25px;
+  margin-bottom: 100px;
+}
