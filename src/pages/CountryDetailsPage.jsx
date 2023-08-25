@@ -42,7 +42,7 @@ function CountryDetails() {
             <hr />
             <p><strong>Capital:</strong> {countryDetails.capital}</p>
             <hr />
-            <p><strong>Area:</strong> {countryDetails.capital} km2</p>
+            <p><strong>Area:</strong> {countryDetails.area} km2</p>
             <hr />
             <p><strong>Borders:</strong></p>
             {console.log(countryDetails.boders)}
